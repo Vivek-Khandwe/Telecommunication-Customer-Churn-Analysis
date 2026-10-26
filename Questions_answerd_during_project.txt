@@ -1,0 +1,14 @@
+Questions Answered in the Project
+
+1. What is the total number of customers who churned and stayed?
+2. What percentage of customers have churned?
+3. Does customer churn differ by gender?
+4. How does customer churn vary between senior citizens and non-senior citizens?
+5. How does customer tenure affect customer churn?
+6. Which contract types have the highest customer churn?
+7. How do services like PhoneService, InternetService, and OnlineSecurity relate to customer churn?
+8. How do OnlineBackup, TechSupport, and StreamingServices affect customer retention?
+9. Which payment method is associated with the highest customer churn?
+10. What factors may contribute to customer churn?
+11. How can telecom companies use these insights to improve customer retention?
+
